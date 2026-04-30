@@ -89,7 +89,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- LinkedIn: linkedin.com/in/pranjal-jain-000906355  
 - Email: pranjaljain2103@gmail.com  
 
 ---
