@@ -36,8 +36,8 @@
 
 ### 🔹 Machine Learning Models (Practice Projects)
 - Diabetes Prediction  
-- Human Activity Recognition  
-- Bike Sharing Demand Prediction  
+- Nvidia Stock Price Prediction  
+- Movie Recommendation System 
 
 - Implemented using standard ML algorithms  
 - Focus on model building, evaluation, and optimization  
